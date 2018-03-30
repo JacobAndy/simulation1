@@ -1,0 +1,34 @@
+#createinput {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: stretch;
+  background-color: #3ad886;
+  width: 25vw;
+  height: 47vh;
+  padding-left: 10px;
+  border-radius: 2%;
+  z-index: 10;
+}
+#pagehalf {
+  background: black;
+  position: absolute;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  right: 12%;
+  margin-top: 5%;
+}
+#noimageholder {
+  margin: 5% auto 0 auto;
+  width: 75%;
+  height: 37%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7jfK42no9I5bQYC16x4zbTQo3y6PBErG7FcVaDcYb7vMRekD");
+  background-size: 190px 155px;
+}

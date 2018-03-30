@@ -1,0 +1,27 @@
+#nav {
+  font-family: open-sans, sans-serif;
+  color: white;
+  background-color: #ab2a19;
+  width: 100vw;
+  height: 9vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  background-image: url("https://raw.githubusercontent.com/DevMountain/simulation-1/master/assets/shelfie_icon.png");
+  background-repeat: no-repeat;
+  background-size: 45px 45px;
+  background-position: 1% 50%;
+  padding-left: 6%;
+  font-weight: 100;
+}
+/* #gallery {
+  justify-content: space-around; */
+/* position: absolute;
+  top: 5%;
+  left: 14%;
+  width: 35vw;
+  height: 100vw; */
+/* } */

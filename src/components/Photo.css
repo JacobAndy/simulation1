@@ -1,0 +1,20 @@
+#imageinfo {
+  background-color: #d34735;
+  border-radius: 5px;
+  display: flex inline;
+  flex-direction: row;
+  /* flex-wrap: nowrap; */
+  /* justify-content: space-around; */
+  align-items: center;
+  width: 30%;
+  height: 180px;
+  margin-left: 15%;
+}
+#huh {
+  width: 50vw;
+  display: inline;
+  margin-top: 10%;
+}
+.image {
+  z-index: 3;
+}

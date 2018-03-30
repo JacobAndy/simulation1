@@ -1,0 +1,1 @@
+update selfie set url=$2, name=$3, price=$4 where photo_id=$1;
